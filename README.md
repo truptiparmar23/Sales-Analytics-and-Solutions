@@ -11,7 +11,7 @@
 
 I built this dashboard to help retail businesses understand their sales data without needing to dig through spreadsheets or wait for end-of-month reports. The idea is simple — put all the important numbers in one place, make them visual, and let anyone in the business answer their own questions.
 
-The dashboard covers a full year of sales data for Discount Mart (2018) and shows:
+The dashboard covers sales Discount Mart data form 2016 to 2019 and shows:
 
 - How much was sold each month
 - Which product categories made the most money
@@ -36,11 +36,11 @@ This dashboard tries to fix that. It gives you the answers before the problem ha
 
 This is a line chart that shows sales for every month of the year. You can see at a glance which months were strong and which were slow. There's also a dotted average line so you always know whether any given month is above or below normal.
 
-For example, sales in January were $18,542 — well below average. By December they hit $96,999. That kind of pattern tells a business to stock up early in Q4 and run promotions in Q1 to bring those quiet months up.
+For example, sales in January(2018) were $18,542 — well below average. By December(2018) they hit $96,999. That kind of pattern tells a business to stock up early in Q4 and run promotions in Q1 to bring those quiet months up.
 
 ### Sales by Category
 
-This chart breaks sales down into three categories: Technology ($226,364), Furniture ($198,901), and Office Supplies ($183,940). It's a simple horizontal bar chart but it tells you a lot. Technology is clearly the strongest — so if you're a buyer, you know to push harder there and negotiate better deals with suppliers.
+This chart breaks sales down into three categories: Technology , Furniture , and Office Supplies . It's a simple horizontal bar chart but it tells you a lot. Technology is clearly the strongest — so if you're a buyer, you know to push harder there and negotiate better deals with suppliers.
 
 ### Sales Map
 
@@ -99,9 +99,9 @@ I'm Trupti Parmar, a data analyst who enjoys making data useful for people who a
 
 If you have questions about this project or want to know how to build something similar for your own business, feel free to reach out.
 
-- Tableau Public: *(add your profile link)*
-- LinkedIn: *(add your LinkedIn)*
-- Email: *(add your email)*
+- Tableau Public: *[(add your profile link)](https://public.tableau.com/app/profile/trupti.parmar/vizzes)*
+- LinkedIn: *www.linkedin.com/in/trupti-parmar-4b7427177*
+- Email: *truptiparmar198@gmail.com*
 
 ---
 
