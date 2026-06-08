@@ -3,7 +3,7 @@
 
 **Created by Trupti Parmar | Built in Tableau Public**
 
-> [View the live dashboard on Tableau Public](https://public.tableau.com) *[(add your link here)](https://public.tableau.com/app/profile/trupti.parmar/viz/DiscountMartSalesAnalytics_17294444711260/Dashboard1)*
+> [View the live dashboard on Tableau Public](https://public.tableau.com) *(https://public.tableau.com/app/profile/trupti.parmar/viz/DiscountMartSalesAnalytics_17294444711260/Dashboard1)*
 
 ---
 
