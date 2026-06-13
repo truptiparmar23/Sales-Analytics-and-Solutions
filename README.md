@@ -2,7 +2,7 @@
 
 **Created by Trupti Parmar | Built in Tableau Public**
 
-> [View the live dashboard on Tableau Public](https://public.tableau.com) *(add your link here)*
+> [View the live dashboard on Tableau Public](https://public.tableau.com) *https://public.tableau.com/app/profile/trupti.parmar/viz/DiscountMartSalesAnalytics_17294444711260/Dashboard1*
 
 ---
 
@@ -98,9 +98,9 @@ I'm Trupti Parmar, a data analyst who enjoys making data useful for people who a
 
 If you have questions about this project or want to know how to build something similar for your own business, feel free to reach out.
 
-- Tableau Public: *(add your profile link)*
-- LinkedIn: *(add your LinkedIn)*
-- Email: *(add your email)*
+- Tableau Public: *https://public.tableau.com/app/profile/trupti.parmar/vizzes*
+- LinkedIn: *https://public.tableau.com/app/profile/trupti.parmar/vizzes*
+- Email: *truptiparmar109@gmail.com*
 
 ---
 
